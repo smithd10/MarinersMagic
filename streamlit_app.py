@@ -187,6 +187,7 @@ else:
 # ============================= PRE-DRAFT MODE =============================
 def render_predraft():
     st.markdown("## Pre-Draft Setup")
+    games = st.session_state.games
 
     data_tab, strategy_tab, scenario_tab = st.tabs(["Data", "Strategy", "Scenarios"])
 

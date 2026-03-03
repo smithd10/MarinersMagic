@@ -1,0 +1,82 @@
+Date,Day,Opponent,Time,SeatGeek_From_Price,Pricing_Tier,Pricing_Index
+3/26/2026,Thursday,Guardians,7:10pm,87,Elite,238
+3/27/2026,Friday,Guardians,6:40pm,40,Premium,110
+3/28/2026,Saturday,Guardians,6:40pm,51,Elite,140
+3/29/2026,Sunday,Guardians,4:20pm,30,Standard,82
+3/30/2026,Monday,Yankees,6:40pm,31,Standard,85
+3/31/2026,Tuesday,Yankees,6:40pm,33,Standard,90
+4/1/2026,Wednesday,Yankees,1:10pm,29,Standard,79
+4/10/2026,Friday,Astros,6:40pm,37,Premium,101
+4/11/2026,Saturday,Astros,6:40pm,27,Standard,74
+4/12/2026,Sunday,Astros,1:10pm,27,Standard,74
+4/13/2026,Monday,Astros,1:10pm,19,Value,52
+4/17/2026,Friday,Rangers,6:40pm,25,Standard,69
+4/18/2026,Saturday,Rangers,4:15pm,36,Premium,99
+4/19/2026,Sunday,Rangers,1:10pm,28,Standard,77
+4/20/2026,Monday,Athletics,6:40pm,19,Value,52
+4/21/2026,Tuesday,Athletics,6:40pm,19,Value,52
+4/22/2026,Wednesday,Athletics,1:10pm,19,Value,52
+5/1/2026,Friday,Royals,6:40pm,37,Premium,101
+5/2/2026,Saturday,Royals,6:40pm,50,Elite,137
+5/3/2026,Sunday,Royals,1:10pm,29,Standard,79
+5/4/2026,Monday,Braves,6:40pm,24,Value,66
+5/5/2026,Tuesday,Braves,6:40pm,24,Value,66
+5/6/2026,Wednesday,Braves,1:10pm,21,Value,58
+5/15/2026,Friday,Padres,6:40pm,39,Premium,107
+5/16/2026,Saturday,Padres,4:15pm,39,Premium,107
+5/17/2026,Sunday,Padres,4:20pm,33,Standard,90
+5/18/2026,Monday,White Sox,6:40pm,22,Value,60
+5/19/2026,Tuesday,White Sox,6:40pm,20,Value,55
+5/20/2026,Wednesday,White Sox,1:10pm,19,Value,52
+5/29/2026,Friday,Diamondbacks,7:10pm,37,Premium,101
+5/30/2026,Saturday,Diamondbacks,7:10pm,39,Premium,107
+5/31/2026,Sunday,Diamondbacks,1:10pm,32,Standard,88
+6/1/2026,Monday,Mets,6:40pm,34,Premium,93
+6/2/2026,Tuesday,Mets,6:40pm,35,Premium,96
+6/3/2026,Wednesday,Mets,12:40pm,35,Premium,96
+6/16/2026,Tuesday,Orioles,6:40pm,24,Value,66
+6/17/2026,Wednesday,Orioles,6:40pm,24,Value,66
+6/18/2026,Thursday,Orioles,1:10pm,24,Value,66
+6/19/2026,Friday,Red Sox,7:10pm,29,Standard,79
+6/20/2026,Saturday,Red Sox,7:15pm,41,Elite,112
+6/21/2026,Sunday,Red Sox,1:10pm,63,Elite,173
+6/29/2026,Monday,Angels,6:40pm,24,Value,66
+6/30/2026,Tuesday,Angels,6:40pm,24,Value,66
+7/2/2026,Thursday,Angels,6:40pm,24,Value,66
+7/3/2026,Friday,Blue Jays,7:10pm,80,Elite,219
+7/4/2026,Saturday,Blue Jays,1:10pm,77,Elite,211
+7/5/2026,Sunday,Blue Jays,2:00pm,72,Elite,197
+7/17/2026,Friday,Giants,7:10pm,55,Elite,151
+7/18/2026,Saturday,Giants,5:08pm,59,Elite,162
+7/19/2026,Sunday,Giants,1:10pm,54,Elite,148
+7/20/2026,Monday,Reds,6:40pm,24,Value,66
+7/21/2026,Tuesday,Reds,6:40pm,29,Standard,79
+7/22/2026,Wednesday,Reds,12:40pm,34,Premium,93
+7/31/2026,Friday,Twins,7:10pm,42,Elite,115
+8/1/2026,Saturday,Twins,1:10pm,48,Elite,132
+8/2/2026,Sunday,Twins,1:10pm,47,Elite,129
+8/4/2026,Tuesday,Tigers,6:40pm,24,Value,66
+8/5/2026,Wednesday,Tigers,6:40pm,26,Standard,71
+8/6/2026,Thursday,Tigers,1:10pm,30,Standard,82
+8/7/2026,Friday,Rays,7:10pm,55,Elite,151
+8/8/2026,Saturday,Rays,6:50pm,58,Elite,159
+8/9/2026,Sunday,Rays,1:10pm,43,Elite,118
+8/21/2026,Friday,Cubs,7:10pm,53,Elite,145
+8/22/2026,Saturday,Cubs,6:40pm,86,Elite,236
+8/23/2026,Sunday,Cubs,1:10pm,62,Elite,170
+8/24/2026,Monday,Phillies,6:40pm,37,Premium,101
+8/25/2026,Tuesday,Phillies,6:40pm,33,Standard,90
+8/26/2026,Wednesday,Phillies,1:10pm,39,Premium,107
+9/3/2026,Thursday,Athletics,6:40pm,24,Value,66
+9/4/2026,Friday,Athletics,7:10pm,35,Premium,96
+9/5/2026,Saturday,Athletics,6:40pm,39,Premium,107
+9/6/2026,Sunday,Athletics,1:10pm,37,Premium,101
+9/8/2026,Tuesday,Rangers,6:40pm,24,Value,66
+9/9/2026,Wednesday,Rangers,6:40pm,24,Value,66
+9/10/2026,Thursday,Rangers,1:10pm,24,Value,66
+9/22/2026,Tuesday,Astros,6:40pm,24,Value,66
+9/23/2026,Wednesday,Astros,7:10pm,24,Value,66
+9/24/2026,Thursday,Angels,6:40pm,20,Value,55
+9/25/2026,Friday,Angels,7:10pm,35,Premium,96
+9/26/2026,Saturday,Angels,6:40pm,39,Premium,107
+9/27/2026,Sunday,Angels,12:10pm,37,Premium,101
